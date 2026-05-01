@@ -7,8 +7,9 @@ Orquestador — el código vive en los repos de Andrés. Este dojo gestiona sesi
 
 ## Estructura
 ```
+scrolls/    fundamentos de la práctica (ronin/ kenshi/)
 docs/       documentación técnica y decisiones
-scripts/    utilidades del dojo (sync-sensei, etc.)
+scripts/    utilidades del dojo (sync-sensei, readiness-check, zero-trust-scan)
 memory/     contexto del proyecto (versionado)
 .claude/    SENSEI, skills y configuración
 ```
